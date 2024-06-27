@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #BEFF39; 
+    border-radius: 20px;
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+}
+
+.navbar li a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: #2C3E50; 
+}
+
+.navbar ul li a:hover {
+    background-color: #f8faf6;
+    border-radius: 20px;
+}
+
+.gtech{
+    height: 170px;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+li{
+    height: auto;
+    max-width: 100%;
+}
+
+.sem1{
+    font-size: 24px;
+}
+
+.sec1{
+    border: 5px;
+    border-color: black;
+}
